@@ -1,0 +1,58 @@
+# Blender MTL File: 'Drugs.blend'
+# Material Count: 4
+
+newmtl PB_1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil-02\\model\\model\\textures\\PB_1_normal.jpg
+map_Kd C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil-02\\model\\model\\textures\\PB_1_albedo.jpg
+map_Ns C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil-02\\model\\model\\textures\\PB_1_roughness.jpg
+refl C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil-02\\model\\model\\textures\\PB_1_metallic.jpg
+
+newmtl PB_2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil-Vitamin\\model\\model\\textures\\PB_2_normal.jpg
+map_Kd C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil-Vitamin\\model\\model\\textures\\PB_2_albedo.jpg
+map_Ns C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil-Vitamin\\model\\model\\textures\\PB_2_roughness.jpg
+refl C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil-Vitamin\\model\\model\\textures\\PB_2_metallic.jpg
+
+newmtl PB_3
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil\\2k\\Pill_Bottle-3(2k)\\model\\textures\\Phantocil-Normal.jpg
+map_Kd C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil\\2k\\Pill_Bottle-3(2k)\\model\\textures\\Phantocil-albedo.jpg
+map_Ns C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil\\2k\\Pill_Bottle-3(2k)\\model\\textures\\Phantocil-Roughness.jpg
+refl C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Phantocil\\2k\\Pill_Bottle-3(2k)\\model\\textures\\Phantocil-Metallic.jpg
+
+newmtl Sm_D
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Small Bottle\\model\\model\\textures\\Sm_D_normal.jpg
+map_Kd C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Small Bottle\\model\\model\\textures\\Sm_D_albedo.jpg
+map_Ns C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Small Bottle\\model\\model\\textures\\Sm_D_roughness.jpg
+refl C:\\Users\\SESAN\\Documents\\Blender\\Asset_Libraries\\Props\\Clutter\\Drugs\\Small Bottle\\model\\model\\textures\\Sm_D_metallic.jpg

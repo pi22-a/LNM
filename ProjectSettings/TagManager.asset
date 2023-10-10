@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - TempPlayer
+  - TempBackground
+  - EnemyActivator
+  - SpotLight
+  - Stoppable
+  - UnStoppable
+  - EnemyDeactivator
+  - pickableObject
+  - Walls
+  - VirtualCams
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CameraBorder
+  - Water
+  - UI
+  - Enemy
+  - TempBackground
+  - TempPlayer
+  - TempEnvironment
+  - EnemyActivator
+  - Cube
+  - Ground
+  - Capsule
+  - SpotLight
+  - PickUpObject
+  - HangingObject
+  - whatIsWall
+  - WheelChair
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
